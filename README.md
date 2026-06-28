@@ -1,5 +1,5 @@
 # EMPRENDEDORES
-Sitio de tranajo para estudiantes de tercer año contable
+Sitio de trabajo para estudiantes de tercer año contable
 <!DOCTYPE html>
 <html lang="en">
 
